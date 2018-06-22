@@ -17,22 +17,22 @@
             "info": {
                 "type": "string",
                 "title": "CSS class for the 'info' icons",
-                "default": "fas fa-info-circle"
+                "default": "fa fa-info-circle"
             },
             "success": {
                 "type": "string",
                 "title": "CSS class for the 'tip' icons",
-                "default": "fas fa-check-circle"
+                "default": "fa fa-check-circle"
             },
             "danger": {
                 "type": "string",
                 "title": "CSS class for the 'danger' icons",
-                "default": "fas fa-exclamation-triangle"
+                "default": "fa fa-exclamation-triangle"
             },
             "warning": {
                 "type": "string",
                 "title": "CSS class for the 'working' icons",
-                "default": "fas fa-exclamation-circle"
+                "default": "fa fa-exclamation-circle"
             }
         }
     }
