@@ -49,10 +49,10 @@ You can specify custom classes for the icons (or none) in your `book.json`:
     "plugins": ["hints"],
     "pluginsConfig": {
         "hints": {
-            "info": "fas fa-info-circle",
-            "success": "fas fa-check-circle",
-            "danger": "fas fa-exclamation-triangle",
-            "warning": "fas fa-exclamation-circle"
+            "info": "fa fa-info-circle",
+            "success": "fa fa-check-circle",
+            "danger": "fa fa-exclamation-triangle",
+            "warning": "fa fa-exclamation-circle"
         }
     }
 }
