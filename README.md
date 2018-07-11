@@ -46,7 +46,7 @@ You can specify custom classes for the icons (or none) in your `book.json`:
 
 ```json
 {
-    "plugins": ["hints"],
+    "plugins": ["hints-istex"],
     "pluginsConfig": {
         "hints": {
             "info": "fa fa-info-circle",
